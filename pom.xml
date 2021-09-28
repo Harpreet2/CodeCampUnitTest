@@ -5,7 +5,7 @@
     <artifactId>code-camp</artifactId>
     <version>0.1</version>
     <name>Code Camp</name>
-    <description>Code Camp Dem</description>
+    <description>Code Camp Demo</description>
 
     <properties>
         <jdk.version>15</jdk.version>
